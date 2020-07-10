@@ -25,9 +25,14 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Describe why Java is called an object oriented, strongly typed language.
+Because you have to declare everything whether it's public or private, the type of the value that is returns if it's a method. the type that it is if it's a variable
 2. Give examples of Java Collections explaining the use and differences between them.
+  array[] - can only hold one type of data, 
+  ArrayList - generally used to help create objects and hold data. typically class based data derived from class shemas
 3. What is recursion and how does it differ from regular looping?
+  recursion is where you recursively call the function inside of it'self, where it ends based on a condition
 4. Explain the differences between Abstract Classes and Interfaces including scenarios of when to use them.
+I didn't catch much of this, but I'm learning a lot about these on my own. Abstract classes are generally where you have a bunch of classes that you need to make that have similar functions and attributes. I'm not fully sure on an interface just yet though. I'm still trying to understand that one. 
 
 ## Instructions
 
